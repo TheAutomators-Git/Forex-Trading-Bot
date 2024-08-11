@@ -6,3 +6,4 @@ gym==0.25.2
 gymnasium==0.29.1
 stable-baselines3==2.0.0
 torchinfo==1.8.0
+MetaTrader5==5.0.33
