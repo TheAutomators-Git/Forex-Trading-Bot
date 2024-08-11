@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+scikit-learn==1.5.1
+gym==0.25.2
+gymnasium==0.29.1
+stable-baselines3==2.0.0
+torchinfo==1.8.0
