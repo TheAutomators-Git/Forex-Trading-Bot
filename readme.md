@@ -22,7 +22,9 @@ This project demonstrates the development and deployment of a trading bot using 
 ```bash
 ├── data/
 │ ├── train/
-│ └── DAT_MT_EURUSD_M1_2023.csv
+│ │ └── DAT_MT_EURUSD_M1_2023.csv
+│ ├── val/
+│ │ └── DAT_MT_EURUSD_M1_202406.csv
 ├── environments.py
 ├── finetune_model.py
 ├── README.md
